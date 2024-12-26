@@ -8,7 +8,7 @@
           <mxGeometry x="50" y="40" width="270" height="250" as="geometry" />
         </mxCell>
         <mxCell id="E9SLCWFWFsrP_VPrdG-r-21" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;如何看懂电路&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;1.高等数学、复变函数是电气&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;2.构建测控对象时，首先写受控对象的工作微分方程，把它转换到复数域中，成为代数方程，转换中用到拉普拉斯变换。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;3.把代数方程求解后再反变换到实数域，并进一步求解的到结果&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;4.自控中，往往变换后不再返回，这种函数叫做传递函数。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;5.自控就直接使用传递函数来实现。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="40" width="270" height="460" as="geometry" />
+          <mxGeometry x="330" y="40" width="270" height="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
